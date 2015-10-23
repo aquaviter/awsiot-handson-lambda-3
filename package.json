@@ -1,9 +1,8 @@
 {
-  "name": "iot-to-elasticsearch",
+  "name": "awsiot-handson-lambda-3",
   "description": "",
   "version": "0.0.0",
   "dependencies": {
-      "aws-sdk": "*",
-      "elasticsearch": "*"
+      "aws-sdk": "*"
   }
 }
